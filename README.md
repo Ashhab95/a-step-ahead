@@ -28,57 +28,10 @@ Follow these steps to run the Java-based **A Step Ahead** application:
 - **Java Development Kit (JDK)**: Ensure that JDK 8 or higher is installed on your system. You can download it from the [Oracle website](https://www.oracle.com/java/technologies/downloads/).
 - **Python**: Ensure that Python 3.x is installed. You can download it from the [official website](https://www.python.org/downloads/).
 
-### Installation
 
-1. **Clone the Repository**
+##Devpost Link
+https://devpost.com/software/shoe-bot
 
-   Open your terminal and run the following command to clone the repository:
-
-   ```bash
-   git clone https://github.com/Ashhab95/a-step-ahead.git
-   ```
-
-2. **Navigate to the Application Directory**
-
-   ```bash
-   cd a-step-ahead/Application
-   ```
-
-3. **Install Python Dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
-1. **Compile the Java Files**
-
-   ```bash
-   javac -d bin src/*.java
-   ```
-
-   This will compile the Java files in the `src` directory and place the `.class` files in the `bin` directory.
-
-2. **Run the Main Class**
-
-   Assuming the main class is named `Main`, run the following command:
-
-   ```bash
-   java -cp bin Main
-   ```
-
-   If your main class is part of a package, include the package name, for example:
-
-   ```bash
-   java -cp bin com.example.Main
-   ```
-
-   *(Replace `com.example.Main` with the actual package and main class name.)*
-
-3. **Access the Application**
-
-   Open your web browser and navigate to `http://localhost:5000` to use the application.
 
 ## License
 
