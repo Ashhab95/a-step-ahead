@@ -19,10 +19,6 @@
 - **Libraries**: Pandas, NumPy, Scikit-learn
 - **Tools**: Git
 
-## How to Run the Application
-
-Follow these steps to run the Java-based **A Step Ahead** application:
-
 ### Prerequisites
 
 - **Java Development Kit (JDK)**: Ensure that JDK 8 or higher is installed on your system. You can download it from the [Oracle website](https://www.oracle.com/java/technologies/downloads/).
