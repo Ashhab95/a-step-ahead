@@ -29,7 +29,7 @@ Follow these steps to run the Java-based **A Step Ahead** application:
 - **Python**: Ensure that Python 3.x is installed. You can download it from the [official website](https://www.python.org/downloads/).
 
 
-##Devpost Link
+### Devpost Link
 https://devpost.com/software/shoe-bot
 
 
